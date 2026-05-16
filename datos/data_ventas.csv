@@ -1,0 +1,366 @@
+producto,cantidad_vendida,precio,fecha_venta
+Teclado Mecanico,3,85.50,2026-01-02
+Monitor 24 Pulgadas,1,199.99,2026-01-02
+Raton Inalambrico,5,35.00,2026-01-03
+Auriculares Bluetooth,2,59.99,2026-01-05
+Silla Ergonomica,1,250.00,2026-01-06
+Disco Duro Externo 1TB,4,75.00,2026-01-06
+Silla Ergonomica,1,250.00,2026-01-07
+Cable HDMI 2m,10,12.50,2026-01-08
+Hub USB-C,3,29.99,2026-01-10
+Memoria RAM 16GB,2,65.00,2026-01-11
+Webcam HD,1,45.00,2026-01-12
+Teclado Mecanico,1,85.50,2026-01-12
+Raton Inalambrico,2,35.00,2026-01-14
+Monitor 24 Pulgadas,2,199.99,2026-01-15
+Auriculares Bluetooth,1,59.99,2026-01-17
+Disco Duro Externo 1TB,3,75.00,2026-01-18
+Cable HDMI 2m,5,12.50,2026-01-20
+Hub USB-C,2,29.99,2026-01-21
+Memoria RAM 16GB,4,65.00,2026-01-22
+Webcam HD,3,45.00,2026-01-25
+Silla Ergonomica,1,250.00,2026-01-26
+Teclado Mecanico,2,85.50,2026-01-27
+Monitor 24 Pulgadas,1,199.99,2026-01-28
+Raton Inalambrico,4,35.00,2026-01-30
+Auriculares Bluetooth,3,59.99,2026-02-01
+Disco Duro Externo 1TB,2,75.00,2026-02-02
+Cable HDMI 2m,8,12.50,2026-02-04
+Hub USB-C,5,29.99,2026-02-05
+Memoria RAM 16GB,1,65.00,2026-02-07
+Webcam HD,2,45.00,2026-02-09
+Silla Ergonomica,1,250.00,2026-02-10
+Teclado Mecanico,3,85.50,2026-02-11
+Monitor 24 Pulgadas,1,199.99,2026-02-13
+Raton Inalambrico,6,35.00,2026-02-14
+Auriculares Bluetooth,2,59.99,2026-02-16
+Disco Duro Externo 1TB,1,75.00,2026-02-17
+Cable HDMI 2m,12,12.50,2026-02-19
+Hub USB-C,1,29.99,2026-02-20
+Memoria RAM 16GB,3,65.00,2026-02-22
+Webcam HD,2,45.00,2026-02-24
+Silla Ergonomica,2,250.00,2026-02-25
+Teclado Mecanico,1,85.50,2026-02-27
+Monitor 24 Pulgadas,2,199.99,2026-02-28
+Raton Inalambrico,3,35.00,2026-03-01
+Auriculares Bluetooth,4,59.99,2026-03-03
+Disco Duro Externo 1TB,5,75.00,2026-03-04
+Cable HDMI 2m,7,12.50,2026-03-06
+Hub USB-C,2,29.99,2026-03-07
+Memoria RAM 16GB,2,65.00,2026-03-09
+Webcam HD,1,45.00,2026-03-10
+Silla Ergonomica,1,250.00,2026-03-12
+Teclado Mecanico,4,85.50,2026-03-13
+Monitor 24 Pulgadas,1,199.99,2026-03-15
+Raton Inalambrico,5,35.00,2026-03-16
+Auriculares Bluetooth,1,59.99,2026-03-18
+Disco Duro Externo 1TB,2,75.00,2026-03-19
+Cable HDMI 2m,15,12.50,2026-03-21
+Hub USB-C,3,29.99,2026-03-22
+Memoria RAM 16GB,1,65.00,2026-03-24
+Webcam HD,3,45.00,2026-03-25
+Silla Ergonomica,1,250.00,2026-03-27
+Teclado Mecanico,2,85.50,2026-03-28
+Monitor 24 Pulgadas,2,199.99,2026-03-30
+Raton Inalambrico,4,35.00,2026-04-01
+Auriculares Bluetooth,2,59.99,2026-04-02
+Disco Duro Externo 1TB,3,75.00,2026-04-04
+Cable HDMI 2m,9,12.50,2026-04-05
+Hub USB-C,4,29.99,2026-04-07
+Memoria RAM 16GB,2,65.00,2026-04-08
+Webcam HD,2,45.00,2026-04-10
+Silla Ergonomica,1,250.00,2026-04-11
+Teclado Mecanico,3,85.50,2026-04-13
+Monitor 24 Pulgadas,1,199.99,2026-04-14
+Raton Inalambrico,5,35.00,2026-04-16
+Auriculares Bluetooth,3,59.99,2026-04-17
+Disco Duro Externo 1TB,4,75.00,2026-04-19
+Cable HDMI 2m,6,12.50,2026-04-20
+Hub USB-C,2,29.99,2026-04-22
+Memoria RAM 16GB,3,65.00,2026-04-23
+Webcam HD,1,45.00,2026-04-25
+Silla Ergonomica,2,250.00,2026-04-26
+Teclado Mecanico,1,85.50,2026-04-28
+Monitor 24 Pulgadas,2,199.99,2026-04-29
+Raton Inalambrico,3,35.00,2026-05-01
+Auriculares Bluetooth,5,59.99,2026-05-02
+Disco Duro Externo 1TB,2,75.00,2026-05-04
+Cable HDMI 2m,11,12.50,2026-05-05
+Hub USB-C,3,29.99,2026-05-07
+Memoria RAM 16GB,1,65.00,2026-05-08
+Webcam HD,4,45.00,2026-05-10
+Silla Ergonomica,1,250.00,2026-05-11
+Teclado Mecanico,2,85.50,2026-05-13
+Monitor 24 Pulgadas,1,199.99,2026-05-14
+Raton Inalambrico,6,35.00,2026-05-15
+Auriculares Bluetooth,2,59.99,2026-01-02
+Disco Duro Externo 1TB,3,75.00,2026-01-03
+Cable HDMI 2m,8,12.50,2026-01-04
+Hub USB-C,1,29.99,2026-01-06
+Memoria RAM 16GB,2,65.00,2026-01-07
+Webcam HD,2,45.00,2026-01-09
+Silla Ergonomica,1,250.00,2026-01-10
+Teclado Mecanico,4,85.50,2026-01-11
+Monitor 24 Pulgadas,1,199.99,2026-01-13
+Raton Inalambrico,3,35.00,2026-01-14
+Auriculares Bluetooth,3,59.99,2026-01-16
+Disco Duro Externo 1TB,2,75.00,2026-01-17
+Cable HDMI 2m,10,12.50,2026-01-19
+Hub USB-C,4,29.99,2026-01-20
+Memoria RAM 16GB,3,65.00,2026-01-22
+Webcam HD,1,45.00,2026-01-23
+Silla Ergonomica,1,250.00,2026-01-25
+Teclado Mecanico,2,85.50,2026-01-26
+Monitor 24 Pulgadas,2,199.99,2026-01-28
+Raton Inalambrico,5,35.00,2026-01-29
+Auriculares Bluetooth,1,59.99,2026-01-31
+Disco Duro Externo 1TB,4,75.00,2026-02-01
+Cable HDMI 2m,7,12.50,2026-02-03
+Hub USB-C,2,29.99,2026-02-04
+Memoria RAM 16GB,2,65.00,2026-02-06
+Webcam HD,3,45.00,2026-02-07
+Silla Ergonomica,1,250.00,2026-02-09
+Teclado Mecanico,3,85.50,2026-02-10
+Monitor 24 Pulgadas,1,199.99,2026-02-12
+Raton Inalambrico,4,35.00,2026-02-13
+Auriculares Bluetooth,2,59.99,2026-02-15
+Disco Duro Externo 1TB,3,75.00,2026-02-16
+Cable HDMI 2m,9,12.50,2026-02-18
+Hub USB-C,3,29.99,2026-02-19
+Memoria RAM 16GB,1,65.00,2026-02-21
+Webcam HD,2,45.00,2026-02-22
+Silla Ergonomica,2,250.00,2026-02-24
+Teclado Mecanico,1,85.50,2026-02-25
+Monitor 24 Pulgadas,2,199.99,2026-02-27
+Raton Inalambrico,3,35.00,2026-02-28
+Auriculares Bluetooth,4,59.99,2026-03-02
+Disco Duro Externo 1TB,2,75.00,2026-03-03
+Cable HDMI 2m,12,12.50,2026-03-05
+Hub USB-C,2,29.99,2026-03-06
+Memoria RAM 16GB,3,65.00,2026-03-08
+Webcam HD,1,45.00,2026-03-09
+Silla Ergonomica,1,250.00,2026-03-11
+Teclado Mecanico,4,85.50,2026-03-12
+Monitor 24 Pulgadas,1,199.99,2026-03-14
+Raton Inalambrico,6,35.00,2026-03-15
+Auriculares Bluetooth,2,59.99,2026-03-17
+Disco Duro Externo 1TB,1,75.00,2026-03-18
+Cable HDMI 2m,14,12.50,2026-03-20
+Hub USB-C,3,29.99,2026-03-21
+Memoria RAM 16GB,2,65.00,2026-03-23
+Webcam HD,3,45.00,2026-03-24
+Silla Ergonomica,1,250.00,2026-03-26
+Teclado Mecanico,2,85.50,2026-03-27
+Monitor 24 Pulgadas,2,199.99,2026-03-29
+Raton Inalambrico,5,35.00,2026-03-30
+Auriculares Bluetooth,3,59.99,2026-04-01
+Disco Duro Externo 1TB,4,75.00,2026-04-02
+Cable HDMI 2m,6,12.50,2026-04-04
+Hub USB-C,2,29.99,2026-04-05
+Memoria RAM 16GB,1,65.00,2026-04-07
+Webcam HD,2,45.00,2026-04-08
+Silla Ergonomica,1,250.00,2026-04-10
+Teclado Mecanico,3,85.50,2026-04-11
+Monitor 24 Pulgadas,1,199.99,2026-04-13
+Raton Inalambrico,4,35.00,2026-04-14
+Auriculares Bluetooth,2,59.99,2026-04-16
+Disco Duro Externo 1TB,3,75.00,2026-04-17
+Cable HDMI 2m,11,12.50,2026-04-19
+Hub USB-C,4,29.99,2026-04-20
+Memoria RAM 16GB,2,65.00,2026-04-22
+Webcam HD,1,45.00,2026-04-23
+Silla Ergonomica,2,250.00,2026-04-25
+Teclado Mecanico,2,85.50,2026-04-26
+Monitor 24 Pulgadas,1,199.99,2026-04-28
+Raton Inalambrico,5,35.00,2026-04-29
+Auriculares Bluetooth,1,59.99,2026-05-01
+Disco Duro Externo 1TB,2,75.00,2026-05-02
+Cable HDMI 2m,8,12.50,2026-05-04
+Hub USB-C,3,29.99,2026-05-05
+Memoria RAM 16GB,3,65.00,2026-05-07
+Webcam HD,2,45.00,2026-05-08
+Silla Ergonomica,1,250.00,2026-05-10
+Teclado Mecanico,4,85.50,2026-05-11
+Monitor 24 Pulgadas,2,199.99,2026-05-13
+Raton Inalambrico,3,35.00,2026-05-14
+Auriculares Bluetooth,4,59.99,2026-05-15
+Disco Duro Externo 1TB,5,75.00,2026-01-02
+Cable HDMI 2m,10,12.50,2026-01-03
+Hub USB-C,2,29.99,2026-01-05
+Memoria RAM 16GB,1,65.00,2026-01-06
+Webcam HD,3,45.00,2026-01-08
+Silla Ergonomica,1,250.00,2026-01-09
+Teclado Mecanico,2,85.50,2026-01-11
+Monitor 24 Pulgadas,1,199.99,2026-01-12
+Raton Inalambrico,4,35.00,2026-01-14
+Auriculares Bluetooth,2,59.99,2026-01-15
+Disco Duro Externo 1TB,3,75.00,2026-01-17
+Cable HDMI 2m,6,12.50,2026-01-18
+Hub USB-C,3,29.99,2026-01-20
+Memoria RAM 16GB,2,65.00,2026-01-21
+Webcam HD,2,45.00,2026-01-23
+Silla Ergonomica,1,250.00,2026-01-24
+Teclado Mecanico,3,85.50,2026-01-26
+Monitor 24 Pulgadas,2,199.99,2026-01-27
+Raton Inalambrico,5,35.00,2026-01-29
+Auriculares Bluetooth,3,59.99,2026-01-30
+Disco Duro Externo 1TB,1,75.00,2026-02-01
+Cable HDMI 2m,13,12.50,2026-02-02
+Hub USB-C,1,29.99,2026-02-04
+Memoria RAM 16GB,4,65.00,2026-02-05
+Webcam HD,2,45.00,2026-02-07
+Silla Ergonomica,2,250.00,2026-02-08
+Teclado Mecanico,1,85.50,2026-02-10
+Monitor 24 Pulgadas,1,199.99,2026-02-11
+Raton Inalambrico,3,35.00,2026-02-13
+Auriculares Bluetooth,2,59.99,2026-02-14
+Disco Duro Externo 1TB,4,75.00,2026-02-16
+Cable HDMI 2m,9,12.50,2026-02-17
+Hub USB-C,2,29.99,2026-02-19
+Memoria RAM 16GB,2,65.00,2026-02-20
+Webcam HD,1,45.00,2026-02-22
+Silla Ergonomica,1,250.00,2026-02-23
+Teclado Mecanico,4,85.50,2026-02-25
+Monitor 24 Pulgadas,2,199.99,2026-02-26
+Raton Inalambrico,6,35.00,2026-02-28
+Auriculares Bluetooth,1,59.99,2026-03-01
+Disco Duro Externo 1TB,2,75.00,2026-03-03
+Cable HDMI 2m,7,12.50,2026-03-04
+Hub USB-C,4,29.99,2026-03-06
+Memoria RAM 16GB,3,65.00,2026-03-07
+Webcam HD,3,45.00,2026-03-09
+Silla Ergonomica,1,250.00,2026-03-10
+Teclado Mecanico,2,85.50,2026-03-12
+Monitor 24 Pulgadas,1,199.99,2026-03-13
+Raton Inalambrico,4,35.00,2026-03-15
+Auriculares Bluetooth,3,59.99,2026-03-16
+Disco Duro Externo 1TB,3,75.00,2026-03-18
+Cable HDMI 2m,11,12.50,2026-03-19
+Hub USB-C,2,29.99,2026-03-21
+Memoria RAM 16GB,1,65.00,2026-03-22
+Webcam HD,2,45.00,2026-03-24
+Silla Ergonomica,1,250.00,2026-03-25
+Teclado Mecanico,3,85.50,2026-03-27
+Monitor 24 Pulgadas,2,199.99,2026-03-28
+Raton Inalambrico,5,35.00,2026-03-30
+Auriculares Bluetooth,2,59.99,2026-03-31
+Disco Duro Externo 1TB,4,75.00,2026-04-02
+Cable HDMI 2m,8,12.50,2026-04-03
+Hub USB-C,3,29.99,2026-04-05
+Memoria RAM 16GB,2,65.00,2026-04-06
+Webcam HD,1,45.00,2026-04-08
+Silla Ergonomica,2,250.00,2026-04-09
+Teclado Mecanico,1,85.50,2026-04-11
+Monitor 24 Pulgadas,1,199.99,2026-04-12
+Raton Inalambrico,4,35.00,2026-04-14
+Auriculares Bluetooth,4,59.99,2026-04-15
+Disco Duro Externo 1TB,2,75.00,2026-04-17
+Cable HDMI 2m,12,12.50,2026-04-18
+Hub USB-C,1,29.99,2026-04-20
+Memoria RAM 16GB,3,65.00,2026-04-21
+Webcam HD,3,45.00,2026-04-23
+Silla Ergonomica,1,250.00,2026-04-24
+Teclado Mecanico,4,85.50,2026-04-26
+Monitor 24 Pulgadas,2,199.99,2026-04-27
+Raton Inalambrico,3,35.00,2026-04-29
+Auriculares Bluetooth,1,59.99,2026-04-30
+Disco Duro Externo 1TB,3,75.00,2026-05-02
+Cable HDMI 2m,5,12.50,2026-05-03
+Hub USB-C,4,29.99,2026-05-05
+Memoria RAM 16GB,2,65.00,2026-05-06
+Webcam HD,2,45.00,2026-05-08
+Silla Ergonomica,1,250.00,2026-05-09
+Teclado Mecanico,2,85.50,2026-05-11
+Monitor 24 Pulgadas,1,199.99,2026-05-12
+Raton Inalambrico,6,35.00,2026-05-14
+Auriculares Bluetooth,3,59.99,2026-05-15
+Disco Duro Externo 1TB,2,75.00,2026-01-02
+Cable HDMI 2m,10,12.50,2026-01-03
+Hub USB-C,3,29.99,2026-01-04
+Memoria RAM 16GB,1,65.00,2026-01-06
+Webcam HD,2,45.00,2026-01-07
+Silla Ergonomica,1,250.00,2026-01-09
+Teclado Mecanico,3,85.50,2026-01-10
+Monitor 24 Pulgadas,2,199.99,2026-01-12
+Raton Inalambrico,4,35.00,2026-01-13
+Auriculares Bluetooth,2,59.99,2026-01-15
+Disco Duro Externo 1TB,4,75.00,2026-01-16
+Cable HDMI 2m,7,12.50,2026-01-18
+Hub USB-C,2,29.99,2026-01-19
+Memoria RAM 16GB,3,65.00,2026-01-21
+Webcam HD,1,45.00,2026-01-22
+Silla Ergonomica,2,250.00,2026-01-24
+Teclado Mecanico,1,85.50,2026-01-25
+Monitor 24 Pulgadas,1,199.99,2026-01-27
+Raton Inalambrico,5,35.00,2026-01-28
+Auriculares Bluetooth,4,59.99,2026-01-30
+Disco Duro Externo 1TB,3,75.00,2026-01-31
+Cable HDMI 2m,14,12.50,2026-02-02
+Hub USB-C,1,29.99,2026-02-03
+Memoria RAM 16GB,2,65.00,2026-02-05
+Webcam HD,3,45.00,2026-02-06
+Silla Ergonomica,1,250.00,2026-02-08
+Teclado Mecanico,4,85.50,2026-02-09
+Monitor 24 Pulgadas,2,199.99,2026-02-11
+Raton Inalambrico,3,35.00,2026-02-12
+Auriculares Bluetooth,1,59.99,2026-02-14
+Disco Duro Externo 1TB,2,75.00,2026-02-15
+Cable HDMI 2m,9,12.50,2026-02-17
+Hub USB-C,4,29.99,2026-02-18
+Memoria RAM 16GB,3,65.00,2026-02-20
+Webcam HD,2,45.00,2026-02-21
+Silla Ergonomica,1,250.00,2026-02-23
+Teclado Mecanico,2,85.50,2026-02-24
+Monitor 24 Pulgadas,1,199.99,2026-02-26
+Raton Inalambrico,5,35.00,2026-02-27
+Auriculares Bluetooth,2,59.99,2026-03-01
+Disco Duro Externo 1TB,5,75.00,2026-03-02
+Cable HDMI 2m,8,12.50,2026-03-04
+Hub USB-C,2,29.99,2026-03-05
+Memoria RAM 16GB,1,65.00,2026-03-07
+Webcam HD,4,45.00,2026-03-08
+Silla Ergonomica,2,250.00,2026-03-10
+Teclado Mecanico,1,85.50,2026-03-11
+Monitor 24 Pulgadas,2,199.99,2026-03-13
+Raton Inalambrico,4,35.00,2026-03-14
+Auriculares Bluetooth,3,59.99,2026-03-16
+Disco Duro Externo 1TB,3,75.00,2026-03-17
+Cable HDMI 2m,11,12.50,2026-03-19
+Hub USB-C,3,29.99,2026-03-20
+Memoria RAM 16GB,2,65.00,2026-03-22
+Webcam HD,1,45.00,2026-03-23
+Silla Ergonomica,1,250.00,2026-03-25
+Teclado Mecanico,3,85.50,2026-03-26
+Monitor 24 Pulgadas,1,199.99,2026-03-28
+Raton Inalambrico,6,35.00,2026-03-29
+Auriculares Bluetooth,2,59.99,2026-03-31
+Disco Duro Externo 1TB,4,75.00,2026-04-01
+Cable HDMI 2m,6,12.50,2026-04-03
+Hub USB-C,2,29.99,2026-04-04
+Memoria RAM 16GB,4,65.00,2026-04-06
+Webcam HD,2,45.00,2026-04-07
+Silla Ergonomica,1,250.00,2026-04-09
+Teclado Mecanico,2,85.50,2026-04-10
+Monitor 24 Pulgadas,2,199.99,2026-04-12
+Raton Inalambrico,3,35.00,2026-04-13
+Auriculares Bluetooth,5,59.99,2026-04-15
+Disco Duro Externo 1TB,1,75.00,2026-04-16
+Cable HDMI 2m,13,12.50,2026-04-18
+Hub USB-C,3,29.99,2026-04-19
+Memoria RAM 16GB,2,65.00,2026-04-21
+Webcam HD,3,45.00,2026-04-22
+Silla Ergonomica,1,250.00,2026-04-24
+Teclado Mecanico,4,85.50,2026-04-25
+Monitor 24 Pulgadas,1,199.99,2026-04-27
+Raton Inalambrico,5,35.00,2026-04-28
+Auriculares Bluetooth,2,59.99,2026-04-30
+Disco Duro Externo 1TB,3,75.00,2026-05-01
+Cable HDMI 2m,9,12.50,2026-05-03
+Hub USB-C,2,29.99,2026-05-04
+Memoria RAM 16GB,1,65.00,2026-05-06
+Webcam HD,2,45.00,2026-05-07
+Silla Ergonomica,2,250.00,2026-05-09
+Teclado Mecanico,1,85.50,2026-05-10
+Monitor 24 Pulgadas,2,199.99,2026-05-12
+Raton Inalambrico,4,35.00,2026-05-13
+Auriculares Bluetooth,3,59.99,2026-05-15
